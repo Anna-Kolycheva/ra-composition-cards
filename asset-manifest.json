@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-composition-cards/static/css/main.90cef1d4.chunk.css",
+    "main.js": "/ra-composition-cards/static/js/main.6163e61f.chunk.js",
+    "main.js.map": "/ra-composition-cards/static/js/main.6163e61f.chunk.js.map",
+    "runtime-main.js": "/ra-composition-cards/static/js/runtime-main.887fe254.js",
+    "runtime-main.js.map": "/ra-composition-cards/static/js/runtime-main.887fe254.js.map",
+    "static/js/2.13ef6489.chunk.js": "/ra-composition-cards/static/js/2.13ef6489.chunk.js",
+    "static/js/2.13ef6489.chunk.js.map": "/ra-composition-cards/static/js/2.13ef6489.chunk.js.map",
+    "static/js/3.208f5818.chunk.js": "/ra-composition-cards/static/js/3.208f5818.chunk.js",
+    "static/js/3.208f5818.chunk.js.map": "/ra-composition-cards/static/js/3.208f5818.chunk.js.map",
+    "index.html": "/ra-composition-cards/index.html",
+    "static/css/main.90cef1d4.chunk.css.map": "/ra-composition-cards/static/css/main.90cef1d4.chunk.css.map",
+    "static/js/2.13ef6489.chunk.js.LICENSE.txt": "/ra-composition-cards/static/js/2.13ef6489.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887fe254.js",
+    "static/js/2.13ef6489.chunk.js",
+    "static/css/main.90cef1d4.chunk.css",
+    "static/js/main.6163e61f.chunk.js"
+  ]
+}
